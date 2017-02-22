@@ -1,0 +1,24 @@
+{
+  "name": "tesco.com",
+  "version": "1.0.0",
+  "description": "cucumber tests for tesco.com",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "chai-webdriver": "^1.2.0",
+    "cucumber": "^2.0.0-rc.7",
+    "webdriverio": "^4.6.2"
+  },
+  "devDependencies": {
+    "wdio-cucumber-framework": "^0.2.15",
+    "wdio-selenium-standalone-service": "0.0.8"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Tiya",
+  "license": "ISC"
+}
